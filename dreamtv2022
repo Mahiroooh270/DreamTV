@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" group="Informações da Lista" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFc5_wctRXVjrnNL-5Tdfd0IVbbXl1b5_VvQ&usqp=CAU", A LISTA FUNCIONA NO KODI
+
+https://kodi.tv/
+
+#EXTINF:0 type="stream" channelId="-1" group="Informações da Lista" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfoR0M8HU5jDHD-cN05rXLR89CuIQHdp0pA&usqp=CAU", GUIA DE PROGRAMAÇÃO
+
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkrVPdiojVBByUIyZyfAre2KPc1XSRSmjQPIyMQ4XzpO5BxwBK99GC1oOdSYNsYRJTbQDA1PVc8pLfHoq6HWHRDHIy-wqHRtUaJA2YOhXlEY5Yr05HgqemhW11kjtVXt8DrJTDu18hHwoZrYn8g0NDetABwyiG91TP4-VSIBovb4TOZneqnImDxBq5/w640-h640/April14-012343PM.png
+
+#EXTINF:0 type="stream" channelId="-1" name="DreamTV" group="Informações da Lista" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9h17PrL0PPsd7oBdo6Hd15nwFnQU1toVGldF2STvkGwJYZWv7KSNWs3fjLAe1LA-GGqvLZMUgBRIJl6tlp92rchKUhPfFy7KRnGp9PGiD2A8rOd0Q2VheBRZ7J7f63hnBoC0KoWZzvVTEvXs2Mv1uHguWgUIK8DxJtgPXwVGmv_jT0a4m2kHWk3oU/w640-h640/InShot_20220414_125236174.jpg" tvg-country="by",  DreamTV
+
+https://twitter.com/dreamtvoficial?t=7_H4hUMGugHdivmofAc0MA&s=09
+
+#EXTINF:0 type="stream" channelId="240" group="Canais: Aventura, documentários e factuais", ANIMAL PLANET HD
+
+https://assistirtv.xyz/animal-planet/video.m3u8?token=8f0a5c56ba1b8f0ec6201b7fcf0d009a6619d1d9-598f7dfb528df725da8fb2cdcfdff6fd-1649957878-1649954278&remote=172.71.6.40
+
+#EXTINF:0 type="stream" channelId="1573" group="Canais: Ao Vivo", AXN HD
+
+https://assistirtv.xyz/axn/video.m3u8?token=7596f99b8aa42772a5a390bbebbc1b56e3811c97-a0cc15af9d5a05acf59f3a88c2085462-1649967886-1649964286&remote=172.68.26.136

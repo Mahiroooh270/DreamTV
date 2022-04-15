@@ -91,3 +91,53 @@ http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/80?
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_Viva_logo_2014.png/revision/latest/scale-to-width-down/200?cb=20140519221457" group-title="Canais: Ao Vivo",VIVA HD
 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/247?token=QkRfV0JaQV5AUFUCUVEFU1RTAgIEB1FZBlYPUwoEUQAAB1EAAFRVAlZBSBJDQRNQVF1uWVcXCQoGVBVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgUJCg0LAQJSFUNIWAUbA0QFBQQCV0ZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJXW1tGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTClNSWkEZ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIf3ESeKfBxHb8-EV1Oh_tUjxoIAB5UZNPicIVWSzjlAwMZ8eVHXeueIvU&s=10" group-title="Canais: Ao Vivo",SPORTV HD
+
+http://50.7.34.155:2201/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kS4tInUr24ddr54kpUklleiZG0QrYAxxM-qOkB2rl7902mv73w6A7zUQ&s=10" group-title="Canais: Ao Vivo",SPORTV 2 HD
+
+http://50.7.34.155:2201/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSujlz0tpiM9etu9_fuQ1lFxWq176umHopU5U4KvGV3CNL0Mq7B-nYod3jN&s=10" group-title="Canais: Ao Vivo",SPORTV 3 HD
+
+http://50.7.34.155:2201/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfhAl_jgsGkm6s-0gVF8YDL9GvZye9RuMYJFv48zMwaAbU81lFWblfb0&s=10" group-title="Canais: Ao Vivo",PREMIERE CLUBES HD
+
+http://45.172.180.50/PFC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfhAl_jgsGkm6s-0gVF8YDL9GvZye9RuMYJFv48zMwaAbU81lFWblfb0&s=10" group-title="Canais: Ao Vivo",PREMIERE 2 HD
+
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfhAl_jgsGkm6s-0gVF8YDL9GvZye9RuMYJFv48zMwaAbU81lFWblfb0&s=10" group-title="Canais: Ao Vivo",PREMIERE 3 HD
+
+http://51.81.84.118:8080/tvonline52022/temp=cache6H=3553234234324235344567==/552?token=QkRfV0JaQV5ABVIGAwEAAQdWUwYGBAMNA1IPVQ5TUA8BAA4AU1NXUAFBSBJDQRNQVF1uWVcXCQ0HURVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgUJCgwBCwdQFUNIWAUbA0QFAQgAU0ZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJSWlZGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTA1NcWlVGTQ==
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfhAl_jgsGkm6s-0gVF8YDL9GvZye9RuMYJFv48zMwaAbU81lFWblfb0&s=10" group-title="Canais: Ao Vivo",PREMIERE 4 HD
+
+http://51.81.84.118:8080/tvonline52022/temp=cache6H=3553234234324235344567==/555?token=QkRfV0JaQV5AVFwIBQICVwBVAgZVDQYOAwdYVwABAF1YAwBTAwBQAAFBSBJDQRNQVF1uWVcXCQ0HVhVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgUJCgwBCwpUFUNIWAUbA0QFAQALVkZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJSWlZGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTA1NdUldGTQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/LogoTVI2017.png" group-title="Canais: Ao Vivo",TVI PORTUGAL HD
+
+http://213.13.23.132/shls/LIVE%24TVI_HD.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(3000000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fox_Movies_logo.svg/1280px-Fox_Movies_logo.svg.png" group-title="Canais: Ao Vivo",FOX MOVIES HD
+
+http://213.13.23.132/shls/LIVE%24FOX_Movies.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91TO8HsQF0lLLr6ELj4dYyBpp1ebGVCyASdggpL9KjRptsjfxZdMDI0kL&s=10" group-title="Canais: Ao Vivo",RAI 1 HD
+
+http://213.13.23.132/shls/LIVE%24RAI_1.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png" group-title="Canais: Ao Vivo",RAI 2 HD
+
+http://213.13.23.132/shls/LIVE%24RAI_2.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Canais: Ao Vivo",RAI 3 HD
+
+http://213.13.23.132/shls/LIVE%24RAI_3.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+

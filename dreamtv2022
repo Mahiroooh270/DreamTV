@@ -1,49 +1,93 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name=" A LISTA FUNCIONA NO KODI" tvg-logo="", A LISTA FUNCIONA NO KODI
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9h17PrL0PPsd7oBdo6Hd15nwFnQU1toVGldF2STvkGwJYZWv7KSNWs3fjLAe1LA-GGqvLZMUgBRIJl6tlp92rchKUhPfFy7KRnGp9PGiD2A8rOd0Q2VheBRZ7J7f63hnBoC0KoWZzvVTEvXs2Mv1uHguWgUIK8DxJtgPXwVGmv_jT0a4m2kHWk3oU/w640-h640/InShot_20220414_125236174.jpg" group-title="Informações da Lista <3",By: DreamTV <3
 
- https://kodi.tv/
+https://twitter.com/dreamtvoficial?t=zawspVmZZS37N5etpgW26A&s=09
 
-#EXTINF:-1 tvg-name=" GUIA DE PROGRAMAÇÃO" tvg-logo="", GUIA DE PROGRAMAÇÃO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9vgMyb5wQ16GT4CsB_jZSjR729KR3uYVt5vmEncgEdqdyD4BatFWdr6Q&s=10" group-title="Informações da Lista <3",A lista funciona no Kodi! <3
 
- https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkrVPdiojVBByUIyZyfAre2KPc1XSRSmjQPIyMQ4XzpO5BxwBK99GC1oOdSYNsYRJTbQDA1PVc8pLfHoq6HWHRDHIy-wqHRtUaJA2YOhXlEY5Yr05HgqemhW11kjtVXt8DrJTDu18hHwoZrYn8g0NDetABwyiG91TP4-VSIBovb4TOZneqnImDxBq5/w640-h640/April14-012343PM.png
+https://kodi.tv/
 
-#EXTINF:-1 tvg-name=" DreamTV" tvg-logo="", DreamTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Canais: Ao Vivo",ANIMAL PLANET HD
 
- https://twitter.com/dreamtvoficial?t=7_H4hUMGugHdivmofAc0MA&s=09
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
-#EXTINF:-1 tvg-name=" ANIMAL PLANET HD" tvg-logo="", ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Canais: Ao Vivo",PRIME BOX HD
 
- https://assistirtv.xyz/animal-planet/video.m3u8?token=8f0a5c56ba1b8f0ec6201b7fcf0d009a6619d1d9-598f7dfb528df725da8fb2cdcfdff6fd-1649957878-1649954278&remote=172.71.6.40
+http://45.177.139.68/PRIME_HD_/index.mpd
 
-#EXTINF:-1 tvg-name=" AXN HD" tvg-logo="", AXN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Canais: Ao Vivo",HBO HD
 
- http://50.7.34.155:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://cdn2.connectbr.com.br/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name=" AMC HD" tvg-logo="", AMC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtX6zfvz24MzzpQcZAm6z9YNdoklQpDfEr2w&usqp=CAU" group-title="Canais: Ao Vivo",AMC HD
 
- http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
-#EXTINF:-1 tvg-name=" ARTE 1 HD" tvg-logo="", ARTE 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Canais: Ao Vivo",MTV 00's HD
 
- http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://213.13.23.132/shls/LIVE%24VH1.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
-#EXTINF:-1 tvg-name=" BAND SPORTS HD" tvg-logo="", BAND SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png" group-title="Canais: Ao Vivo",TELECINE TOUCH HD
 
- http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+http://324agc.lkg1fl1pt.com/live/m4_SMpJY8bBmfLw5Kaqzsgr3U1Q_480p/m4_SMpJY8bBmfLw5Kaqzsgr3U1Q_480p_sensei_121847476-5.ts
 
-#EXTINF:-1 tvg-name=" BAND SP HD" tvg-logo="", BAND SP HD
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png" group-title="Canais: Ao Vivo",TELECINE PIPOCA HD
 
- https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4x0_1g5zt79hyW3twnb3HqKX_EuaBNykSXHR3aIWfWc8)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+http://324agc.lkg1fl1pt.com/live/m3_KnwJ0by8GYtpiOFVERcWf7Br_720p/m3_KnwJ0by8GYtpiOFVERcWf7Br_720p_sensei_122042435-5.ts
 
-#EXTINF:-1 tvg-name=" BAND MG HD" tvg-logo="", BAND MG HD
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png" group-title="Canais: Ao Vivo",TELECINE PREMIUM HD
 
- http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w1217003306.m3u8
+http://324agc.lkg1fl1pt.com/live/m3_rGNKj8wgdokTI0x2lReVs1mh_480p/m3_rGNKj8wgdokTI0x2lReVs1mh_480p_sensei_121713123-5.ts
 
-#EXTINF:-1 tvg-name=" BAND PA HD" tvg-logo="", BAND PA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0Y5KRVBhCAuKXktcq4HFTls06BLqjE0BPQ&usqp=CAU" group-title="Canais: Ao Vivo",TELECINE FUN HD
 
- https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w848486839.m3u8
+http://phru6b.lkg1fl1pt.com/v3/youshi/m1_BLoVMP46Uef2mWjQO7R9qTFK_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&dev_limit=1&client_ip=88.165.142.7&app_id=com.global.brasiltvweb&user_id=16804528&app_ver=10101&session_id=zjzfSEGO52q1&dev_id=9855e858&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&expired=1649991696&token=A92C540E5048175532E76B2CB77A7285&media_code=m1_BLoVMP46Uef2mWjQO7R9qTFK_720p
 
-#EXTINF:-1 tvg-name=" BBB 22 HD" tvg-logo="", BBB 22 HD
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png" group-title="Canais: Ao Vivo",TELECINE CULT HD
 
- http://50.7.34.155:2200/BR/BBB_22_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://324agc.lkg1fl1pt.com/live/m2_6soPbznmWEaXtBk4L0CK59R2_480p/m2_6soPbznmWEaXtBk4L0CK59R2_480p_sensei_53033633-5.ts
+
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png" group-title="Canais: Ao Vivo",TELECINE ACTION HD
+
+http://324agc.lkg1fl1pt.com/live/m4_v3oMzfY2ElwRtWGhiKmNkq1y_720p/m4_v3oMzfY2ElwRtWGhiKmNkq1y_720p_sensei_122282732-5.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6eZTmMDSUDfWyIbQ2mMLf9VSPsEewUSfV8F7F_LMsyA5_48acdTClys&s=10" group-title="Canais: Ao Vivo",SIC K HD
+
+http://213.13.23.132/shls/LIVE%24SIC_K.CVL/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO SP HD
+
+http://170.82.200.35/globo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO RJ HD
+
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO DF HD
+
+http://50.7.34.155:2201/BR/Globo_Brasilia_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO FORTALEZA HD
+
+http://50.7.34.155:2201/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="Canais: Ao Vivo",GLOBO NORDESTE HD
+
+http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="Canais: Ao Vivo",TLNOVELAS HD
+
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPASMCEqZOwhjDhP5zqi2Cc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1200px-Univision_tlnovelas_%282019%29.svg.png" group-title="Canais: Ao Vivo",UNIVISION TLNOVELAS HD
+
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE9pjAO-yFOKaVrPmHBAntE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Canais: Ao Vivo",MULTISHOW HD
+
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/80?token=QkRfV0JaQV5AVlZVBQwFAVAGUAVSVgUMVgcMAgwEUg8AXwJVUgIGBVZBSBJDQRNQVF1uWVcXCQACTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgJCw0LDAdPGxFRVUMDG1QEBggCQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1RRV0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQGC1dVQB4=
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_Viva_logo_2014.png/revision/latest/scale-to-width-down/200?cb=20140519221457" group-title="Canais: Ao Vivo",VIVA HD
+
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/247?token=QkRfV0JaQV5AUFUCUVEFU1RTAgIEB1FZBlYPUwoEUQAAB1EAAFRVAlZBSBJDQRNQVF1uWVcXCQoGVBVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgUJCg0LAQJSFUNIWAUbA0QFBQQCV0ZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJXW1tGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTClNSWkEZ
